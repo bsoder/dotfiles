@@ -71,6 +71,9 @@ fi
 # add various bins to PATH
 PATH=$PATH:/usr/sbin:/sbin
 
+# android development
+PATH=$PATH:/Users/bsoder/dev/android-sdk-macosx/tools:/Users/bsoder/dev/android-sdk-macosx/platform-tools
+
 # add manpath for various utils
 export MANPATH="/usr/local/opt/coreutils/libexec/gnuman:/usr/share/man:/usr/share/man:/usr/local/share/man"
 

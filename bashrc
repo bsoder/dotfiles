@@ -99,6 +99,7 @@ export PATH=$NEWPATH
 # various exports
 export EDITOR=vim
 export HOMEBREW_GITHUB_API_TOKEN=$HOMEBREW_TOKEN
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home
 
 # set up ls per operating system
 alias ls="command ls ${colorflag}"
